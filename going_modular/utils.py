@@ -13,8 +13,6 @@ from torch import nn
 import os
 import zipfile
 
-from pathlib import Path
-
 import requests
 
 # Walk through an image classification directory and find out how many files (images)
